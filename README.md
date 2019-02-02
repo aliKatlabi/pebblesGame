@@ -5,6 +5,8 @@ It is a two-player game , the winner is one who drop the most of other opponentâ
 If there is still pebbles on the field the winner is the one holding more pebbles .Ali Katlabi OT9IO5
 description of each methods
 
+(for learning purposes) 
+
 GUIBoard class includes :
 
 -ButtonListener class which include :
