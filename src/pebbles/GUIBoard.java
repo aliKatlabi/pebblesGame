@@ -298,8 +298,6 @@ public class GUIBoard {
 
                         int Y=          points[1];
 
-                        
-
                 boolean isAdjacent =      (nextX==X+1&&nextY==Y)
 
                                         ||(nextX==X-1&&nextY==Y)
