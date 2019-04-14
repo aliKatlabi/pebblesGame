@@ -10,7 +10,8 @@ If there is still pebbles on the field the winner is the one holding more pebble
 
 ![alt text](https://github.com/aliKatlabi/pebblesGame/blob/master/Pgame.gif)
 
-
-
-
-![alt text](https://github.com/aliKatlabi/pebblesGame/blob/master/Pgame2.gif)
+#
+#
+#
+#
+![alt text](https://github.com/aliKatlabi/pebblesGame/blob/master/PG.gif)
