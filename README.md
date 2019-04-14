@@ -5,6 +5,6 @@ It is a two-player game , the winner is one who drop the most of other opponentâ
 If there is still pebbles on the field the winner is the one holding more pebbles .Ali Katlabi OT9IO5
 description of each methods
 
-# photage of the game
+## photage of the game
 
 ![alt text](https://github.com/aliKatlabi/pebblesGame/blob/master/Pgame.gif)
